@@ -9,3 +9,5 @@ pip install -r requirements.txt
 ## usage
 
 The db file gets created in the working directory. Use sqlite3 to query it directly.
+
+<!-- checked: 2026-10-04 -->
